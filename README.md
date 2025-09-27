@@ -74,8 +74,7 @@ I enjoy learning by building hands-on projects and sharing them openly.
 - 📦 **Repositories Central** – Scripts & automation examples  
 - 🧭 **Jobs Portal** – Preparing for DevOps career opportunities  
 - ☁️ **Cloud Blog** – Notes & architecture guides  
-- 🛠️ **Tool Guides** – Setup & installation docs  
-- 📑 **DevOps Cheatsheet** – My curated best practices  
+- 🛠️ **Tool Guides** – Setup & installation docs   
 
 ---
 
