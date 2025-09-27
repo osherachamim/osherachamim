@@ -24,9 +24,11 @@ I enjoy learning by building hands-on projects and sharing them openly.
   Sharing DevOps learning journey  
 
 ---
+## 📂 Featured Repositories
+
 <table>
   <tr>
-    <td style="vertical-align: top; width: 50%;">
+    <td style="vertical-align: top; width: 50%; padding-right: 12px;">
 
       <h3>🌟 Popular Projects</h3>
       <ul>
@@ -37,7 +39,7 @@ I enjoy learning by building hands-on projects and sharing them openly.
       </ul>
 
     </td>
-    <td style="vertical-align: top; width: 50%;">
+    <td style="vertical-align: top; width: 50%; padding-left: 12px;">
 
       <h3>🛠️ Tools & Guides</h3>
       <ul>
