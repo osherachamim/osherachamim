@@ -32,44 +32,6 @@ I enjoy learning by building hands-on projects and sharing them openly.
 
 
 ---
-## 🔗 Quick Links
-- 🌐 [Portfolio](#)  
-- 📄 [Resume](#)  
-- 📝 [Blog](#)  
-- 🔗 [All Links](#)  
-
----
-
-## 🌐 DevOps Learning Hub
-> Empowering myself to grow one project at a time 🚀  
-
-### 📚 Learning Resources
-- 💻 **Real-Time Projects Hub** – My hands-on DevOps projects  
-- 📦 **Repositories Central** – Scripts & automation examples  
-- 🧭 **Jobs Portal** – Preparing for DevOps career opportunities  
-- ☁️ **Cloud Blog** – Notes & architecture guides  
-- 🛠️ **Tool Guides** – Setup & installation docs  
-- 📑 **DevOps Cheatsheet** – My curated best practices  
-
----
-
-## 🎯 My Mission
-DevOps knowledge should be accessible to everyone. I believe in:  
-- 🔓 Breaking down paywalls  
-- 🛠️ Learning by building  
-- 🤝 Sharing with the community  
-- 📈 Continuous improvement  
-- 🌟 Gaining practical experience  
-
----
-
-## 🤝 Connect With Me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osher-rachamim) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/osherachamim/osherachamim)
-
-
----
-
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -101,8 +63,36 @@ DevOps knowledge should be accessible to everyone. I believe in:
 </p>
 
 </div>
- 
 
+---
+
+## 🌐 DevOps Learning Hub
+> Empowering myself to grow one project at a time 🚀  
+
+### 📚 Learning Resources
+- 💻 **Real-Time Projects Hub** – My hands-on DevOps projects  
+- 📦 **Repositories Central** – Scripts & automation examples  
+- 🧭 **Jobs Portal** – Preparing for DevOps career opportunities  
+- ☁️ **Cloud Blog** – Notes & architecture guides  
+- 🛠️ **Tool Guides** – Setup & installation docs  
+- 📑 **DevOps Cheatsheet** – My curated best practices  
+
+---
+
+## 🎯 My Mission
+DevOps knowledge should be accessible to everyone. I believe in:  
+- 🔓 Breaking down paywalls  
+- 🛠️ Learning by building  
+- 🤝 Sharing with the community  
+- 📈 Continuous improvement  
+- 🌟 Gaining practical experience  
+
+---
+
+## 🤝 Connect With Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osher-rachamim) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/osherachamim/osherachamim)
+ 
 ---
 
 ## 📊 GitHub Stats
