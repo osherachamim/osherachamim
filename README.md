@@ -84,8 +84,6 @@ DevOps knowledge should be accessible to everyone. I believe in:
 ### DevOps & CI/CD
 <p>
   <a href="https://www.jenkins.io/"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
-  <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
-  <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/"><img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
 
 ### Containers & Orchestration
@@ -100,7 +98,6 @@ DevOps knowledge should be accessible to everyone. I believe in:
   <a href="https://www.terraform.io/"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"></a>
   <a href="https://www.ansible.com/"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"></a>
   <a href="https://prometheus.io/"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"></a>
-  <a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"></a>
 </p>
 
 </div>
