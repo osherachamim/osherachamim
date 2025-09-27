@@ -79,8 +79,7 @@ I enjoy learning by building hands-on projects and sharing them openly.
 ---
 
 ## 🎯 My Mission
-DevOps knowledge should be accessible to everyone. I believe in:  
-- 🔓 Breaking down paywalls  
+DevOps knowledge should be accessible to everyone. I believe in:   
 - 🛠️ Learning by building  
 - 🤝 Sharing with the community  
 - 📈 Continuous improvement  
