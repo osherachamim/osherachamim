@@ -64,23 +64,9 @@ DevOps knowledge should be accessible to everyone. I believe in:
 ---
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](#)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](#)  
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+[![LinkedIn](https://www.linkedin.com/in/osher-rachamim)](#)  
+[![GitHub](https://github.com/osherachamim/osherachamim/)](#)   
 
----
-
-## 📂 Featured Repositories
-### 🌟 Popular Projects
-- [ansible-nginx-weather](#)  
-- [AKS-voting-app-deployment](#)  
-- [Docker Multi-Service Voting App](#)  
-
-### 🔧 Tools & Guides
-- CI/CD Pipeline (Jenkins + Docker)  
-- Azure DevOps Guide  
-- Prometheus Monitoring  
 
 ---
 
