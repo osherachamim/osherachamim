@@ -63,10 +63,6 @@ DevOps knowledge should be accessible to everyone. I believe in:
 
 ---
 
-## 🤝 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/osher-rachamim)](#)  
-[![GitHub](https://github.com/osherachamim/osherachamim/)](#)   
-
 ## 🤝 Connect With Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osher-rachamim) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/osherachamim/osherachamim)
