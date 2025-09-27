@@ -71,10 +71,40 @@ DevOps knowledge should be accessible to everyone. I believe in:
 ---
 
 ## ⚡ Tech Stack
-**Cloud & Platforms:** AWS | Azure | Google Cloud  
-**DevOps & CI/CD:** Jenkins | GitHub Actions | GitLab CI  
-**Containers & Orchestration:** Docker | Kubernetes | Helm  
-**Infra & Monitoring:** Terraform | Ansible | Prometheus | Grafana  
+
+<div align="center">
+
+### Cloud & Platforms
+<p>
+  <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+  <a href="https://azure.microsoft.com/"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+  <a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+</p>
+
+### DevOps & CI/CD
+<p>
+  <a href="https://www.jenkins.io/"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+  <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
+  <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/"><img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+</p>
+
+### Containers & Orchestration
+<p>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+  <a href="https://helm.sh/"><img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"></a>
+</p>
+
+### Infrastructure & Monitoring
+<p>
+  <a href="https://www.terraform.io/"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"></a>
+  <a href="https://www.ansible.com/"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"></a>
+  <a href="https://prometheus.io/"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"></a>
+  <a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"></a>
+</p>
+
+</div>
+ 
 
 ---
 
