@@ -26,32 +26,10 @@ I enjoy learning by building hands-on projects and sharing them openly.
 ---
 ## 📂 Featured Repositories
 
-<table>
-  <tr>
-    <td style="vertical-align: top; width: 50%; padding-right: 12px;">
+| 🌟 Popular Projects | 🛠️ Tools & Guides |
+| --- | --- |
+| <ul><li><a href="https://github.com/osherachamim/DevOps-Real-Time-Projects">DevOps Real-Time Projects</a></li><li><a href="https://github.com/osherachamim/Kubernetes-Learning-Path">Kubernetes Learning Path</a></li><li><a href="https://github.com/osherachamim/DevOps-Interview-Questions">550+ DevOps Interview Questions</a></li><li><a href="https://github.com/osherachamim/AWS-DevOps-Real-Time-Deployment">AWS DevOps Real-Time Deployment</a></li></ul> | <ul><li><a href="https://github.com/osherachamim/CI-CD-Pipeline-for-AWS-EKS">CI/CD Pipeline for AWS EKS</a></li><li><a href="https://github.com/osherachamim/DevOps-Tool-Installer">DevOps Tool Installer</a></li><li><a href="https://github.com/osherachamim/Azure-DevOps-Guide">Azure DevOps Guide</a></li><li><a href="https://github.com/osherachamim/DevOps-Cheatsheet">DevOps Cheatsheet</a></li></ul> |
 
-      <h3>🌟 Popular Projects</h3>
-      <ul>
-        <li><a href="https://github.com/osherachamim/DevOps-Real-Time-Projects">DevOps Real-Time Projects</a></li>
-        <li><a href="https://github.com/osherachamim/Kubernetes-Learning-Path">Kubernetes Learning Path</a></li>
-        <li><a href="https://github.com/osherachamim/DevOps-Interview-Questions">550+ DevOps Interview Questions</a></li>
-        <li><a href="https://github.com/osherachamim/AWS-DevOps-Real-Time-Deployment">AWS DevOps Real-Time Deployment</a></li>
-      </ul>
-
-    </td>
-    <td style="vertical-align: top; width: 50%; padding-left: 12px;">
-
-      <h3>🛠️ Tools & Guides</h3>
-      <ul>
-        <li><a href="https://github.com/osherachamim/CI-CD-Pipeline-for-AWS-EKS">CI/CD Pipeline for AWS EKS</a></li>
-        <li><a href="https://github.com/osherachamim/DevOps-Tool-Installer">DevOps Tool Installer</a></li>
-        <li><a href="https://github.com/osherachamim/Azure-DevOps-Guide">Azure DevOps Guide</a></li>
-        <li><a href="https://github.com/osherachamim/DevOps-Cheatsheet">DevOps Cheatsheet</a></li>
-      </ul>
-
-    </td>
-  </tr>
-</table>
 
 ---
 ## 🔗 Quick Links
