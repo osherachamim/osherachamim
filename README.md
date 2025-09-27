@@ -24,7 +24,22 @@ I enjoy learning by building hands-on projects and sharing them openly.
   Sharing DevOps learning journey  
 
 ---
+## 📂 Featured Repositories
 
+### 🌟 Popular Projects
+- [ansible-nginx-weather](https://github.com/osherachamim/ansible-nginx-weather)  
+- [AKS-voting-app-deployment](https://github.com/osherachamim/AKS-voting-app-deployment)  
+- [Docker-Multi-Service-Application-with-NGINX-Reverse-Proxy-and-PostgreSQL](https://github.com/osherachamim/Docker-Multi-Service-Application-with-NGINX-Reverse-Proxy-and-PostgreSQL)  
+- [Multi-Service-Voting-Application-with-Docker](https://github.com/osherachamim/Multi-Service-Voting-Application-with-Docker)  
+
+### 🔧 Tools & Guides
+- [CI-CD-Go-Jenkins-Pipeline](https://github.com/osherachamim/CI-CD-Go-Jenkins-Pipeline)  
+- [Prometheus](https://github.com/osherachamim/Prometheus)  
+- [Dockerized-HTML-Website-Nginx](https://github.com/osherachamim/Dockerized-HTML-Website-Nginx)  
+
+
+
+---
 ## 🔗 Quick Links
 - 🌐 [Portfolio](#)  
 - 📄 [Resume](#)  
