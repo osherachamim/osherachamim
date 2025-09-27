@@ -87,4 +87,3 @@ DevOps knowledge should be accessible to everyone. I believe in:
 
 ## 📊 GitHub Stats
 ![Osher's GitHub stats](https://github-readme-stats.vercel.app/api?username=osherachamim&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github)
