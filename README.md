@@ -1,12 +1,11 @@
 # 🚀 Osher Rachamim
-**DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD**
+**IT Infrastructure & DevOps Engineer | Cloud | Automation | Monitoring | CI/CD**
 
 ---
 
 ## 👋 About Me
-Hey there!  
-I'm a passionate **DevOps Engineer in the making**, on a mission to automate everything and build scalable infrastructures.  
-I enjoy learning by building hands-on projects and sharing them openly.  
+Hey there!
+I’m an IT Infrastructure & DevOps Engineer passionate about bridging the gap between traditional systems administration and modern cloud automation  
 
 ---
 
